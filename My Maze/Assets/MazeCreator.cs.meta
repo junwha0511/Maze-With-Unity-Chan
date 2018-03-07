@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 475b5bcb506688148ac435a52371aff0
+timeCreated: 1514106041
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallBlock: {fileID: 1585204817263490, guid: 8f4286818de41074bb9c5eef9ac42899,
+      type: 2}
+  - pathBlock: {fileID: 1536523891747454, guid: 5298c0b8849e906409ad7882419ceaeb,
+      type: 2}
+  - color: {fileID: 2100000, guid: 6e28fcb321e03ea4397d965a61c89b9c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
