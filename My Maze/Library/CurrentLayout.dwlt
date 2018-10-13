@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 117
+  controlID: 28
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -146,7 +146,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 685
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -212,7 +212,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 76
+  controlID: 29
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -236,7 +236,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 29
+  controlID: 30
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -291,6 +291,7 @@ MonoBehaviour:
     y: 584
     width: 1226
     height: 286
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_AnimEditor: {fileID: 0}
   m_Locked: 0
 --- !u!114 &13
@@ -318,6 +319,7 @@ MonoBehaviour:
     y: 92
     width: 303
     height: 786
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
   m_GlobalObjectTypeName: 
   m_RegisteredViewURLs:
@@ -350,6 +352,7 @@ MonoBehaviour:
     y: 92
     width: 303
     height: 786
+  m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -376,23 +379,10 @@ MonoBehaviour:
     y: 92
     width: 779
     height: 325
-  m_ViewPositions:
-    m_KeySerializationHelper:
-    - {fileID: 110700000, guid: 212b3a957fa7bee41a0bf8c3b14ce293, type: 2}
-    - {fileID: 110700000, guid: 8d5a0e0d58f4e4176a844a1a03976c19, type: 2}
-    - {fileID: 110786135, guid: 8d5a0e0d58f4e4176a844a1a03976c19, type: 2}
-    - {fileID: 110274123, guid: 8d5a0e0d58f4e4176a844a1a03976c19, type: 2}
-    - {fileID: 20692894, guid: 8d5a0e0d58f4e4176a844a1a03976c19, type: 2}
-    - {fileID: 20689716, guid: 8d5a0e0d58f4e4176a844a1a03976c19, type: 2}
-    - {fileID: 110700000, guid: 3173dc991e314594abd6180b45c49c92, type: 2}
-    m_ValueSerializationHelper:
-    - {x: 925.6001, y: 285.4}
-    - {x: 671.4, y: 421.80002}
-    - {x: 503.2, y: 194.19995}
-    - {x: 835.2, y: 180}
-    - {x: 362.6001, y: 4.800049}
-    - {x: 362.6001, y: 104.900024}
-    - {x: 685.6001, y: 122.79999}
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ViewTransforms:
+    m_KeySerializationHelper: []
+    m_ValueSerializationHelper: []
   m_PreviewAnimator: {fileID: 0}
   m_AnimatorController: {fileID: 0}
   m_BreadCrumbs: []
@@ -432,6 +422,7 @@ MonoBehaviour:
     y: 92
     width: 879
     height: 473
+  m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -458,6 +449,7 @@ MonoBehaviour:
     y: 438
     width: 1087
     height: 268
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -476,14 +468,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: 51
-  m_LastProjectPath: "C:\\Users\\Junwha-PC\\Documents\\\uD504\uB85C\uADF8\uB798\uBC0D\\Unity\\My
-    Maze"
+  m_LastProjectPath: C:\Users\Junwha-PC\Documents\Programming\Unity\Maze-With-UnityHChan\My
+    Maze
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 54270000
-    m_LastClickedID: 10068
-    m_ExpandedIDs: 0000000054270000d6270000a028000028290000142a00001e2a0000fc2a0000703300007233000000ca9a3bffffff7f
+    m_SelectedIDs: 542b0000
+    m_LastClickedID: 11092
+    m_ExpandedIDs: 00000000542b0000c42b00007a2c0000f42c0000ce2d0000d62d0000a42e00009c3500009e35000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -511,7 +503,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 6c240000
     m_LastClickedID: 9324
-    m_ExpandedIDs: 0000000054270000d6270000a028000028290000142a00001e2a0000fc2a00007033000072330000
+    m_ExpandedIDs: 00000000542b0000c42b00007a2c0000f42c0000ce2d0000d62d0000a42e00009c3500009e350000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -592,6 +584,7 @@ MonoBehaviour:
     y: 92
     width: 275
     height: 614
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
@@ -625,11 +618,12 @@ MonoBehaviour:
     y: 92
     width: 304
     height: 325
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 98070000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: a6fbffff00000000
+    m_ExpandedIDs: a4f9ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -678,6 +672,7 @@ MonoBehaviour:
     y: 92
     width: 779
     height: 325
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
   lastFramingTime: 56.795801571968575
   m_2DMode: 0
@@ -695,6 +690,7 @@ MonoBehaviour:
     showSkybox: 1
     showFlares: 1
     showImageEffects: 1
+    showParticleSystems: 1
   grid:
     xGrid:
       m_Target: 0
@@ -709,13 +705,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.07173707, y: -0.9230699, z: 0.2112632, w: 0.3133618}
+    m_Target: {x: -0.0051087043, y: -0.9373865, z: 0.34802806, w: -0.013811292}
     speed: 2
-    m_Value: {x: 0.071735926, y: -0.9230552, z: 0.21125983, w: 0.3133568}
+    m_Value: {x: -0.0051086177, y: -0.93737066, z: 0.34802216, w: -0.013811058}
   m_Size:
-    m_Target: 83.67021
+    m_Target: 34.09987
     speed: 2
-    m_Value: 83.67021
+    m_Value: 34.09987
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -753,6 +749,7 @@ MonoBehaviour:
     y: 92
     width: 779
     height: 325
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
@@ -773,7 +770,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoom: 0
     m_UniformScale: 1
     m_UpDirection: 1
@@ -829,3 +826,4 @@ MonoBehaviour:
     y: 584
     width: 1226
     height: 286
+  m_PersistentViewDataDictionary: {fileID: 0}
